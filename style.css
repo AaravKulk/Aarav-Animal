@@ -1,0 +1,22 @@
+.div{
+    color: aliceblue;
+    text-align: center;
+}
+
+.img{
+    width: 220px;
+    height: 180px;
+}
+
+body{
+    background-color: dimgrey;
+}
+
+.img:hover{
+    width: 230px;
+    border: 2px;
+    border-color: azure;
+    border-style: solid;
+    height: 190px;
+    cursor: pointer;
+}
